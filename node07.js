@@ -1,0 +1,10 @@
+bcode="b101"
+bno=101
+bname="Java"
+bprice=455.75
+bpcode="J"
+console.log(bcode)
+console.log(bno)
+console.log(bname)
+console.log(bprice)
+console.log(bpcode)
