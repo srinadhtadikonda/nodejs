@@ -3,8 +3,11 @@ bno=101
 bname="Java"
 bprice=455.75
 bpcode="J"
-console.log(bcode)
-console.log(bno)
-console.log(bname)
-console.log(bprice)
-console.log(bpcode)
+bav=true
+console.log(bcode,"",typeof(bcode))
+console.log(bno,"",typeof(bno))
+console.log(bname,"",typeof(bname))
+console.log(bprice,"",typeof(bprice))
+console.log(bpcode,"",typeof(bpcode))
+console.log(bav,"",typeof(bav))
+
