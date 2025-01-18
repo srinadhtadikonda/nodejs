@@ -1,3 +1,4 @@
+/* switch case */
 i=13
 switch(i)
 {
